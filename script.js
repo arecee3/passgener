@@ -10,7 +10,7 @@ var lowercaseChoice;
 var numberChoice;
 var specialcharChoice;
 
-debugger
+//debugger
 function generatePassword(){
   userInput = window.prompt("Choose password length **must be between 8 and 36 characters**")
   var length = Number(userInput)
